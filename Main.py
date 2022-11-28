@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 
 st.header("My Meal Planning app")
 
